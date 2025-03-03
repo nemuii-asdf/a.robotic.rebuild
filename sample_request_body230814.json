@@ -1,0 +1,1107 @@
+{
+	"data": [
+		"task(n5oigydw9046tzr)",
+		"<lora:animagine_fixhand_v1:1> 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter backdrop, artist: tomose shunsaku, masterpiece, best quality, innocent pose ",
+		"worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, watermark, artist signature, deformed body, upskirt view, more than 2 legs, 2girls",
+		[],
+		30,
+		"DPM++ 2M SDE SGMUniform",
+		1,
+		1,
+		7,
+		1440,
+		1024,
+		false,
+		0.7,
+		2,
+		"Latent",
+		0,
+		0,
+		0,
+		"Use same checkpoint",
+		"Use same sampler",
+		"",
+		"",
+		[],
+		"None",
+		false,
+		"",
+		0.8,
+		-1,
+		false,
+		-1,
+		0,
+		0,
+		0,
+		false,
+		false,
+		null,
+		null,
+		true,
+		false,
+		1,
+		false,
+		false,
+		false,
+		1.1,
+		1.5,
+		100,
+		0.7,
+		false,
+		false,
+		true,
+		false,
+		false,
+		0,
+		"Gustavosta/MagicPrompt-Stable-Diffusion",
+		"",
+		false,
+		"Horizontal",
+		"None",
+		"",
+		"Basic",
+		{
+			"data": [
+				[
+					"0.0:0.5",
+					"0.0:1.0",
+					"1.0"
+				],
+				[
+					"0.5:1.0",
+					"0.0:1.0",
+					"1.0"
+				]
+			],
+			"headers": [
+				"x",
+				"y",
+				"weight"
+			]
+		},
+		0.5,
+		false,
+		3,
+		0,
+		"middle",
+		0,
+		false,
+		7,
+		3,
+		0,
+		false,
+		false,
+		"LoRA",
+		"None",
+		1,
+		1,
+		"LoRA",
+		"None",
+		1,
+		1,
+		"LoRA",
+		"None",
+		1,
+		1,
+		"LoRA",
+		"None",
+		1,
+		1,
+		"LoRA",
+		"None",
+		1,
+		1,
+		null,
+		"Refresh models",
+		false,
+		"1.5",
+		0,
+		false,
+		0.01,
+		0.5,
+		-0.13,
+		0,
+		0,
+		0,
+		0,
+		false,
+		"None",
+		20,
+		false,
+		false,
+		"0",
+		null,
+		[],
+		"0",
+		false,
+		[],
+		[],
+		false,
+		"0",
+		"2",
+		false,
+		false,
+		"0",
+		null,
+		[],
+		-2,
+		false,
+		[],
+		false,
+		"0",
+		null,
+		null,
+		true,
+		0,
+		false,
+		"After applying other prompt processings",
+		-1,
+		"short",
+		".*cosplay.*,sex,character design",
+		"<|special|>, <|characters|>, <|copyrights|>, <|artist|>, <|general|>, <|quality|>, <|meta|>, <|rating|>",
+		1.35,
+		0.95,
+		100,
+		"KBlueLeaf/DanTagGen-delta-rev2 | ggml-model-Q8_0.gguf",
+		true,
+		false,
+		null,
+		null,
+		null,
+		false,
+		7,
+		1,
+		"Constant",
+		0,
+		"Constant",
+		0,
+		1,
+		"enable",
+		"MEAN",
+		"AD",
+		1,
+		false,
+		1.01,
+		1.02,
+		0.99,
+		0.95,
+		false,
+		0.5,
+		2,
+		false,
+		256,
+		2,
+		0,
+		false,
+		false,
+		3,
+		2,
+		0,
+		0.35,
+		true,
+		"bicubic",
+		"bicubic",
+		false,
+		0,
+		"anisotropic",
+		0,
+		"reinhard",
+		100,
+		0,
+		"subtract",
+		0,
+		0,
+		"gaussian",
+		"add",
+		0,
+		100,
+		127,
+		0,
+		"hard_clamp",
+		5,
+		0,
+		"None",
+		"None",
+		false,
+		"MultiDiffusion",
+		768,
+		768,
+		64,
+		4,
+		false,
+		false,
+		false,
+		false,
+		false,
+		"positive",
+		"comma",
+		0,
+		false,
+		false,
+		"start",
+		"",
+		"Seed",
+		"",
+		[],
+		"Nothing",
+		"",
+		[],
+		"Nothing",
+		"",
+		[],
+		true,
+		false,
+		false,
+		false,
+		false,
+		false,
+		false,
+		0,
+		false,
+		false,
+		1,
+		[
+			{
+				"name": "D:\\AIstuff\\stable-diffusion-webui\\outputs\\txt2img-images\\17273-3561211664-_lora_animagine_fixhand_v1_1_ 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter bac.png?1718559057.6355104",
+				"data": "http://127.0.0.1:7860/file=D:\\AIstuff\\stable-diffusion-webui\\outputs\\txt2img-images\\17273-3561211664-_lora_animagine_fixhand_v1_1_ 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter bac.png?1718559057.6355104",
+				"is_file": true
+			}
+		],
+		"{\"prompt\": \"<lora:animagine_fixhand_v1:1> 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter backdrop, artist: tomose shunsaku, masterpiece, best quality, innocent pose, cinematic, dramatic ambient, detailed, whole\", \"all_prompts\": [\"<lora:animagine_fixhand_v1:1> 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter backdrop, artist: tomose shunsaku, masterpiece, best quality, innocent pose, cinematic, dramatic ambient, detailed, whole\"], \"negative_prompt\": \"worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, watermark, artist signature, deformed body, upskirt view, more than 2 legs, 2girls\", \"all_negative_prompts\": [\"worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, watermark, artist signature, deformed body, upskirt view, more than 2 legs, 2girls\"], \"seed\": 3561211664, \"all_seeds\": [3561211664], \"subseed\": 2827961584, \"all_subseeds\": [2827961584], \"subseed_strength\": 0, \"width\": 1024, \"height\": 1440, \"sampler_name\": \"DPM++ 2M SDE SGMUniform\", \"cfg_scale\": 7, \"steps\": 30, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_name\": \"animaginexl_v31\", \"sd_model_hash\": \"e3c47aedb0\", \"sd_vae_name\": \"animaginexl_v31.vae.safetensors\", \"sd_vae_hash\": \"235745af8d\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0.7, \"extra_generation_params\": {\"Lora hashes\": \"animagine_fixhand_v1: 33f8485ec891\"}, \"index_of_first_image\": 0, \"infotexts\": [\"<lora:animagine_fixhand_v1:1> 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter backdrop, artist: tomose shunsaku, masterpiece, best quality, innocent pose, cinematic, dramatic ambient, detailed, whole\\nNegative prompt: worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, watermark, artist signature, deformed body, upskirt view, more than 2 legs, 2girls\\nSteps: 30, Sampler: DPM++ 2M SDE SGMUniform, CFG scale: 7, Seed: 3561211664, Size: 1024x1440, Model hash: e3c47aedb0, VAE hash: 235745af8d, VAE: animaginexl_v31.vae.safetensors, Lora hashes: \\\"animagine_fixhand_v1: 33f8485ec891\\\", Version: f0.0.17v1.8.0rc-latest-306-gf15d1139\"], \"styles\": [], \"job_timestamp\": \"20240617002906\", \"clip_skip\": 1, \"is_using_inpainting_conditioning\": false, \"version\": \"f0.0.17v1.8.0rc-latest-306-gf15d1139\"}",
+		"<p>&lt;lora:animagine_fixhand_v1:1&gt; 1girl, sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, cozy sweater, winter backdrop, artist: tomose shunsaku, masterpiece, best quality, innocent pose, cinematic, dramatic ambient, detailed, whole<br>\nNegative prompt: worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, watermark, artist signature, deformed body, upskirt view, more than 2 legs, 2girls<br>\nSteps: 30, Sampler: DPM++ 2M SDE SGMUniform, CFG scale: 7, Seed: 3561211664, Size: 1024x1440, Model hash: e3c47aedb0, VAE hash: 235745af8d, VAE: animaginexl_v31.vae.safetensors, Lora hashes: &quot;animagine_fixhand_v1: 33f8485ec891&quot;, Version: f0.0.17v1.8.0rc-latest-306-gf15d1139</p>",
+		"<p class='comments'></p><div class='performance'><p class='time'>Time taken: <wbr><span class='measurement'>1 min. 51.2 sec.</span></p></div>"
+	]
+}
+
+{
+    "data": [
+        "task(yqqn6ev5b4nr1lj)",
+        4,
+        "1girl, blue bunnygirl latex outfit, knee-high stocking, <lora:mafuyu_XL:1.0>, beautiful color, best quality, [breast], cleavage",
+        "((nsfw)), worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, more than 2 legs",
+        [],
+        "data:image/png;base64,",
+        null,
+        null,
+        null,
+        null,
+        "data:image/png;base64,",
+        "data:image/png;base64,",
+        20,
+        "DPM++ 2M SDE SGMUniform",
+        4,
+        0,
+        "fill",
+        1,
+        1,
+        7,
+        1.5,
+        1,
+        0,
+        1280,
+        1024,
+        1,
+        "Crop and resize",
+        "Whole picture",
+        32,
+        "Inpaint masked",
+        "",
+        "",
+        "",
+        [],
+        false,
+        [],
+        "",
+        "None",
+        false,
+        1,
+        0.5,
+        4,
+        0,
+        0.5,
+        2,
+        false,
+        "",
+        0.8,
+        -1,
+        false,
+        -1,
+        0,
+        0,
+        0,
+        false,
+        false,
+        null,
+        null,
+        true,
+        false,
+        1,
+        false,
+        false,
+        false,
+        1.1,
+        1.5,
+        100,
+        0.7,
+        false,
+        false,
+        true,
+        false,
+        false,
+        0,
+        "Gustavosta/MagicPrompt-Stable-Diffusion",
+        "",
+        false,
+        "Horizontal",
+        "None",
+        "",
+        "Advanced",
+        {
+            "data": [
+                [
+                    "0.0:0.5",
+                    "0.0:1.0",
+                    "1.0"
+                ],
+                [
+                    "0.5:1.0",
+                    "0.0:1.0",
+                    "1.0"
+                ]
+            ],
+            "headers": [
+                "x",
+                "y",
+                "weight"
+            ]
+        },
+        0.5,
+        false,
+        3,
+        0,
+        "middle",
+        0,
+        false,
+        7,
+        3,
+        0,
+        false,
+        false,
+        "LoRA",
+        "None",
+        0,
+        0,
+        "LoRA",
+        "None",
+        0,
+        0,
+        "LoRA",
+        "None",
+        0,
+        0,
+        "LoRA",
+        "None",
+        0,
+        0,
+        "LoRA",
+        "None",
+        0,
+        0,
+        null,
+        "Refresh models",
+        false,
+        "1.5",
+        0,
+        false,
+        0.01,
+        0.5,
+        -0.13,
+        0,
+        0,
+        0,
+        0,
+        false,
+        "None",
+        20,
+        false,
+        false,
+        "0",
+        "data:image/png;base64,",
+        [
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp_c6_g17u.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp_c6_g17u.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpv4my_hon.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpv4my_hon.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpvdbvddru.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpvdbvddru.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpv1iumqrt.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpv1iumqrt.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp8t6i3eki.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp8t6i3eki.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmph0ao2323.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmph0ao2323.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmppjy5o9tx.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmppjy5o9tx.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpbrk5bu_o.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpbrk5bu_o.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp7s1sn3he.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp7s1sn3he.png",
+                "is_file": true
+            }
+        ],
+        "1",
+        true,
+        [
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp7hbxmlqn.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp7hbxmlqn.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp6qziawwe.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp6qziawwe.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpjrfl31wb.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpjrfl31wb.png",
+                "is_file": true
+            }
+        ],
+        [],
+        false,
+        "0",
+        "2",
+        false,
+        false,
+        "0",
+        null,
+        [],
+        -2,
+        false,
+        [],
+        false,
+        "0",
+        null,
+        null,
+        null,
+        null,
+        null,
+        false,
+        7,
+        1,
+        "Constant",
+        0,
+        "Constant",
+        0,
+        1,
+        "enable",
+        "MEAN",
+        "AD",
+        1,
+        false,
+        1.01,
+        1.02,
+        0.99,
+        0.95,
+        false,
+        0.5,
+        2,
+        false,
+        256,
+        2,
+        0,
+        false,
+        false,
+        3,
+        2,
+        0,
+        0.35,
+        true,
+        "bicubic",
+        "bicubic",
+        false,
+        0,
+        "anisotropic",
+        0,
+        "reinhard",
+        100,
+        0,
+        "subtract",
+        0,
+        0,
+        "gaussian",
+        "add",
+        0,
+        100,
+        127,
+        0,
+        "hard_clamp",
+        5,
+        0,
+        "None",
+        "None",
+        false,
+        "MultiDiffusion",
+        768,
+        768,
+        64,
+        4,
+        false,
+        false,
+        false,
+        "* `CFG Scale` should be 2 or lower.",
+        true,
+        true,
+        "",
+        "",
+        true,
+        50,
+        true,
+        1,
+        0,
+        false,
+        4,
+        0.5,
+        "Linear",
+        "None",
+        "<p style=\"margin-bottom:0.75em\">Recommended settings: Sampling Steps: 80-100, Sampler: Euler a, Denoising strength: 0.8</p>",
+        128,
+        8,
+        [
+            "left",
+            "right",
+            "up",
+            "down"
+        ],
+        1,
+        0.05,
+        128,
+        4,
+        "fill",
+        [
+            "left",
+            "right",
+            "up",
+            "down"
+        ],
+        false,
+        false,
+        "positive",
+        "comma",
+        0,
+        false,
+        false,
+        "start",
+        "",
+        "<p style=\"margin-bottom:0.75em\">Will upscale the image by the selected scale factor; use width and height sliders to set tile size</p>",
+        64,
+        "None",
+        2,
+        "Seed",
+        "",
+        [],
+        "Nothing",
+        "",
+        [],
+        "Nothing",
+        "",
+        [],
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        0,
+        false,
+        "<p style=\"margin-bottom:0.75em\">Will upscale the image depending on the selected target size type</p>",
+        512,
+        0,
+        8,
+        32,
+        64,
+        0.35,
+        32,
+        "None",
+        true,
+        "Linear",
+        false,
+        8,
+        "None",
+        "From img2img2 settings",
+        2048,
+        2048,
+        2,
+        false,
+        1,
+        [
+            {
+                "name": "D:\\AIstuff\\stable-diffusion-webui\\outputs\\img2img-images\\01081-2236132511-1girl, blue bunnygirl latex outfit, knee-high stocking, _lora_mafuyu_XL_1.0_, beautiful color, best quality, [breast], cleavage.png?1716229353.0028377",
+                "data": "http://127.0.0.1:7860/file=D:\\AIstuff\\stable-diffusion-webui\\outputs\\img2img-images\\01081-2236132511-1girl, blue bunnygirl latex outfit, knee-high stocking, _lora_mafuyu_XL_1.0_, beautiful color, best quality, [breast], cleavage.png?1716229353.0028377",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp2gg2ns7j.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp2gg2ns7j.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpcbw9sh03.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpcbw9sh03.png",
+                "is_file": true
+            }
+        ],
+        "{\"prompt\": \"1girl, blue bunnygirl latex outfit, knee-high stocking, <lora:mafuyu_XL:1.0>, beautiful color, best quality, [breast], cleavage\", \"all_prompts\": [\"1girl, blue bunnygirl latex outfit, knee-high stocking, <lora:mafuyu_XL:1.0>, beautiful color, best quality, [breast], cleavage\"], \"negative_prompt\": \"((nsfw)), worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, more than 2 legs\", \"all_negative_prompts\": [\"((nsfw)), worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, more than 2 legs\"], \"seed\": 2236132511, \"all_seeds\": [2236132511], \"subseed\": 2505278242, \"all_subseeds\": [2505278242], \"subseed_strength\": 0, \"width\": 1024, \"height\": 1280, \"sampler_name\": \"DPM++ 2M SDE SGMUniform\", \"cfg_scale\": 7, \"steps\": 30, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_name\": \"animaginexl_v31\", \"sd_model_hash\": \"e3c47aedb0\", \"sd_vae_name\": \"animaginexl_v31.vae.safetensors\", \"sd_vae_hash\": \"235745af8d\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 1, \"extra_generation_params\": {\"ControlNet 0\": \"Module: canny, Model: controlnetxlCNXL_destitechInpaintv2 [e799aa20], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 512, Threshold A: 100, Threshold B: 200, Guidance Start: 0, Guidance End: 1, Pixel Perfect: False, Control Mode: My prompt is more important, Hr Option: Both\", \"Denoising strength\": 1, \"Mask blur\": 4, \"Masked content\": \"fill\", \"Lora hashes\": \"mafuyu_XL: 4b371bbf2d64\", \"Emphasis\": \"No norm\"}, \"index_of_first_image\": 0, \"infotexts\": [\"1girl, blue bunnygirl latex outfit, knee-high stocking, <lora:mafuyu_XL:1.0>, beautiful color, best quality, [breast], cleavage\\nNegative prompt: ((nsfw)), worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, more than 2 legs\\nSteps: 30, Sampler: DPM++ 2M SDE SGMUniform, CFG scale: 7, Seed: 2236132511, Size: 1024x1280, Model hash: e3c47aedb0, VAE hash: 235745af8d, VAE: animaginexl_v31.vae.safetensors, Denoising strength: 1, ControlNet 0: \\\"Module: canny, Model: controlnetxlCNXL_destitechInpaintv2 [e799aa20], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 512, Threshold A: 100, Threshold B: 200, Guidance Start: 0, Guidance End: 1, Pixel Perfect: False, Control Mode: My prompt is more important, Hr Option: Both\\\", Mask blur: 4, Masked content: fill, Lora hashes: \\\"mafuyu_XL: 4b371bbf2d64\\\", Emphasis: No norm, Version: f0.0.17v1.8.0rc-latest-306-gf15d1139\"], \"styles\": [], \"job_timestamp\": \"20240521012141\", \"clip_skip\": 1, \"is_using_inpainting_conditioning\": false, \"version\": \"f0.0.17v1.8.0rc-latest-306-gf15d1139\"}",
+        "<p>1girl, blue bunnygirl latex outfit, knee-high stocking, &lt;lora:mafuyu_XL:1.0&gt;, beautiful color, best quality, [breast], cleavage<br>\nNegative prompt: ((nsfw)), worst quality, bad quality, jpeg artifact, bad anatomy, 2girls, cropped, more than 2 legs<br>\nSteps: 30, Sampler: DPM++ 2M SDE SGMUniform, CFG scale: 7, Seed: 2236132511, Size: 1024x1280, Model hash: e3c47aedb0, VAE hash: 235745af8d, VAE: animaginexl_v31.vae.safetensors, Denoising strength: 1, ControlNet 0: &quot;Module: canny, Model: controlnetxlCNXL_destitechInpaintv2 [e799aa20], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 512, Threshold A: 100, Threshold B: 200, Guidance Start: 0, Guidance End: 1, Pixel Perfect: False, Control Mode: My prompt is more important, Hr Option: Both&quot;, Mask blur: 4, Masked content: fill, Lora hashes: &quot;mafuyu_XL: 4b371bbf2d64&quot;, Emphasis: No norm, Version: f0.0.17v1.8.0rc-latest-306-gf15d1139</p>",
+        "<p class='comments'></p><div class='performance'><p class='time'>Time taken: <wbr><span class='measurement'>51.4 sec.</span></p></div>"
+    ],
+    "event_data": null,
+    "fn_index": 1180,
+    "session_hash": "8s7ycc2isud"
+}
+
+
+{
+    "data": [
+        {
+            "image": "data:image/png;base64"
+        },
+        "depth_midas",
+        512,
+        0.5,
+        0.5,
+        1024,
+        1024,
+        false,
+        "Crop and Resize"
+    ],
+    "event_data": null,
+    "fn_index": 1036,
+    "session_hash": "opmnyevljhd"
+}
+
+{
+    "data": [
+        null,
+        false,
+        "",
+        "",
+        [],
+        [],
+        null,
+        {
+            "image": "data:image/png;base64,",
+            "mask": ""
+        },
+        "Both",
+        false,
+        "None",
+        "None",
+        1,
+        {
+            "image": "",
+            "mask": ""
+        },
+        "Crop and Resize",
+        -1,
+        64,
+        64,
+        0,
+        1,
+        false,
+        "Balanced"
+    ],
+    "event_data": null,
+    "fn_index": 842,
+    "session_hash": "8s7ycc2isud"
+}
+
+{
+    "data": [
+        "task(wng9t1dfzpz80rk)",
+        0,
+        "data:image/jpeg;",
+        null,
+        "",
+        "",
+        true,
+        0,
+        2,
+        512,
+        512,
+        true,
+        "4x_AnimeSharp",
+        "None",
+        0,
+        false,
+        1,
+        false,
+        1,
+        0,
+        false,
+        0.5,
+        0.2,
+        false,
+        0.9,
+        0.15,
+        0.5,
+        false,
+        false,
+        384,
+        768,
+        4096,
+        409600,
+        "Maximize area",
+        0.1,
+        false,
+        [
+            "Horizontal"
+        ],
+        false,
+        [
+            "Deepbooru"
+        ],
+        0,
+        false,
+        true,
+        false,
+        false,
+        "Variable blur",
+        10,
+        5,
+        "#000000",
+        "Ellipse",
+        3,
+        0,
+        10,
+        0.5,
+        1,
+        null,
+        [
+            "Draw mask"
+        ],
+        null,
+        "<p>Postprocess upscale by: 2, Postprocess upscaler: 4x_AnimeSharp</p>",
+        "<div class='performance'><p class='time'>Time taken: <wbr><span class='measurement'>18.4 sec.</span></p></div>"
+    ],
+    "event_data": null,
+    "fn_index": 1177,
+    "session_hash": "4pslb5mj956"
+}
+
+{
+    "data": [
+        "data:image/jpeg;base64"
+    ],
+    "event_data": null,
+    "fn_index": 1172,
+    "session_hash": "r5ay2ckh1q"
+}
+
+// bounding box preview
+{
+    "data": [
+        "data:image/png;base64",
+        null,
+        null
+    ],
+    "event_data": null,
+    "fn_index": 810,
+    "session_hash": "444blb4pup1"
+}
+// response
+{
+    "msg": "process_completed",
+    "output": {
+        "data": [
+            "data:image/png;base64",
+            {
+                "choices": [
+                    [
+                        "0",
+                        "0"
+                    ],
+                    [
+                        "1",
+                        "1"
+                    ],
+                    [
+                        "2",
+                        "2"
+                    ]
+                ],
+                "value": [
+                    "0",
+                    "1",
+                    "2"
+                ],
+                "__type__": "update"
+            },
+            {
+                "visible": false,
+                "__type__": "update"
+            }
+        ],
+        "is_generating": false,
+        "duration": 3.402153491973877,
+        "average_duration": 2.3980573415756226
+    },
+    "success": true
+}
+
+{
+    "data": [
+        "sam_vit_h_4b8939.pth",
+        "data:image/png;base64,",
+        [], // segment marker
+        [],
+        true,   //enable grounding dino
+        "GroundingDINO_SwinT_OGC (694MB)", // dino model
+        "bunnygirl outfit, top clothes", // dino prompt
+        0.3, // threshold
+        true, // preview?
+        [
+            "1" // selected bounding box
+        ],
+        [
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpa7jpmpjz.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpa7jpmpjz.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpdbvdfkmd.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpdbvdfkmd.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpt6te9q_s.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpt6te9q_s.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpr95ph7ed.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpr95ph7ed.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpacqg5u8k.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpacqg5u8k.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp_3wis4m8.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp_3wis4m8.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmph310w8iz.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmph310w8iz.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp6vkukrdx.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp6vkukrdx.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpsxtsh3mw.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpsxtsh3mw.png",
+                "is_file": true
+            }
+        ],
+        null
+    ],
+    "event_data": null,
+    "fn_index": 813,
+    "session_hash": "444blb4pup1"
+}
+
+{
+    "data": [
+        "sam_vit_h_4b8939.pth",
+        "data:image/png;base64,",
+        [
+            [
+                688,
+                836.5333333333333
+            ],
+            [
+                549.3333333333333,
+                751.1999999999999
+            ],
+            [
+                245.33333333333331,
+                489.8666666666666
+            ],
+            [
+                709.3333333333333,
+                633.8666666666666
+            ],
+            [
+                912,
+                911.1999999999999
+            ],
+            [
+                405.3333333333333,
+                868.5333333333333
+            ],
+            [
+                293.3333333333333,
+                1028.5333333333333
+            ]
+        ],
+        [],
+        false,
+        "GroundingDINO_SwinT_OGC (694MB)",
+        "bunnygirl outfit, top clothes",
+        0.3,
+        true,
+        [
+            "2"
+        ],
+        [
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpzeiao_re.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpzeiao_re.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpdevbwdax.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpdevbwdax.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpl0qla3nr.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpl0qla3nr.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp8wdlntzj.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp8wdlntzj.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpix7t8u8j.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpix7t8u8j.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpbhvgifun.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpbhvgifun.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmplfhonc85.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmplfhonc85.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpazribz48.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpazribz48.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpl_ox3eax.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpl_ox3eax.png",
+                "is_file": true
+            }
+        ],
+        null
+    ],
+    "event_data": null,
+    "fn_index": 813,
+    "session_hash": "444blb4pup1"
+}
+
+{
+    "data": [
+        [
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpxnzig7xk.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpxnzig7xk.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp2xp2uwdz.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp2xp2uwdz.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmptfit96l9.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmptfit96l9.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp8g9pqc7z.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmp8g9pqc7z.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpl0cocrve.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpl0cocrve.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpy08oxh8z.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpy08oxh8z.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmph9vv7nqw.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmph9vv7nqw.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpyhz5i157.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpyhz5i157.png",
+                "is_file": true
+            },
+            {
+                "name": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpoxx3pbf_.png",
+                "data": "http://127.0.0.1:7860/file=C:\\Users\\ADMIN\\AppData\\Local\\Temp\\gradio\\tmpoxx3pbf_.png",
+                "is_file": true
+            }
+        ],
+        "1",    //which mask
+        24,     //extend by how much
+        "data:image/png;base64,"    // final result
+    ],
+    "event_data": null,
+    "fn_index": 814,
+    "session_hash": "444blb4pup1"
+}
+
+{
+    "data": [],
+    "event_data": null,
+    "fn_index": 830,
+    "session_hash": "444blb4pup1"
+}
